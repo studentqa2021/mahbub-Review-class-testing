@@ -1,3 +1,7 @@
-com\cucumber\test\CucumberRunner.class
-com\cucumber\test\StepDef.class
+com\cucumber\test\Stepdef1.class
 com\regrassion\SmokeTest.class
+com\testngtest\TestngPractice.class
+com\testngtest\AllAnotationtest.class
+com\cucumber\test\StepDef.class
+com\cucumber\test\CucumberRunner.class
+com\cucumber\test\CucumberRun.class

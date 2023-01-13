@@ -1,5 +1,7 @@
 com\generic\BaseLogin.class
+com\generic\CostcoAutomation.class
 com\util\ScreenShot.class
+com\generic\FinalLoginPractice.class
 com\drivermanager\DriverManager.class
 com\util\Constants.class
 com\selenium\pagefactory\SeleniumPageFactory1.class
